@@ -1,0 +1,70 @@
+{
+  "objectInfo" : {
+    "id" : "bU11hQqYPEMhheuPlFZcqF",
+    "name" : "M_SALESFORCE_SS_ISSUE_PP_LinX",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0116Q7170000000001A5"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2025-02-27T01:36:01.370Z",
+  "objectRefs" : [ {
+    "id" : "5rhmGv2LqH6ivJlsrpGr0p",
+    "name" : "AMIT_SF_PP",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0116Q70B000000000090"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "c6FNaT44oY3jz5oaXGxryv",
+    "name" : "AMIT_SS",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0116Q70B00000000008Y"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}

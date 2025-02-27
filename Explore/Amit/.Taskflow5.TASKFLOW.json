@@ -1,0 +1,70 @@
+{
+  "objectInfo" : {
+    "id" : "4veUIUilU7Cgh6BkoJHVca",
+    "name" : "Taskflow5",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "qm7O2htghGZ5i4r-gt-20644073-2024-04-16T11:35:13.268Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2025-02-27T01:36:01.369Z",
+  "objectRefs" : [ {
+    "id" : "31H2w9X26KJg9ndsd46US1",
+    "name" : "Amit_file_crlf_tgt",
+    "type" : "MI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "81059"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Amit"
+  }, {
+    "id" : "ihNqQSdqFENcYSxd5gxEes",
+    "name" : "mct_io_notification",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0116Q70Z0000000002MU"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Amit"
+  } ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}

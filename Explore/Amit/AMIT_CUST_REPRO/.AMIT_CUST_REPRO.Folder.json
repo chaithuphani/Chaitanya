@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "8MSMnlY0hOkd0GaNkdxDs3",
+    "name" : "AMIT_CUST_REPRO",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2025-02-27T01:36:01.351Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}

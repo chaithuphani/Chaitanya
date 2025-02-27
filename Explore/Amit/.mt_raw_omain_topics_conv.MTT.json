@@ -1,0 +1,130 @@
+{
+  "objectInfo" : {
+    "id" : "3gymB6cuYg1bvfuqXkdWGE",
+    "name" : "mt_raw_omain_topics_conv",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0116Q70Z0000000000XJ"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2025-02-27T01:36:01.367Z",
+  "objectRefs" : [ {
+    "id" : "6IbAO0pOIeXiVMVnBFvesR",
+    "name" : "_Nithy_Windows_SA_Group",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0116Q725000000000004"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "7dkmDv9mxMKgvMHxeH3kY1",
+    "name" : "NK_Nithy_Snowflake",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0116Q70B00000000001F"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "5ecRbWkrJ1peiAwdprgZi8",
+    "name" : "cdt_to_utc",
+    "type" : "UDF",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0116Q74100000000000S"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Formula was adapted from this Informatica article : https:&#x2F;&#x2F;knowledge.informatica.com&#x2F;s&#x2F;article&#x2F;146181?language=en_US",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/03170095_ojas"
+  }, {
+    "id" : "5ez0dzeQtekhWUrs0IyquL",
+    "name" : "m_mysql_conv_incremental_ingestion",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0116Q71700000000017S"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Ayaz"
+  }, {
+    "id" : "38DVmV5r8oXlBqIca6o0s1",
+    "name" : "NK_Nithy_FlatFile",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0116Q70B00000000000D"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
